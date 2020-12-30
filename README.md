@@ -9,6 +9,6 @@ I'm Yannick and I develop software. I tend to take pride in my work so if you fi
 
 ### Stats
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=BrainStone&count_private=true&show_icons=true&theme=dark" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=BrainStone&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainStone&theme=dark&layout=compact&langs_count=8" />
 </div>
